@@ -10,7 +10,7 @@
 
 ###
 
-<p align="left">📚 Atualmente estou aprendendo JavaScript, Node.js, React-Native, MySQL, Python e C# <br>🎯 Objetivos: Avançar nos estudos e trabalhar na area de T.I como FullStack<br>🎲 Curiosidade: Viver é cristo, morrer e lucro</p>
+<p align="left">📚 Atualmente estou aprendendo JavaScript, Node.js, React-Native, MySQL, Python e C# <br>🎯 Objetivos: Avançar nos estudos e trabalhar na area de T.I como FullStack</p>
 
 ###
 
