@@ -37,8 +37,8 @@
 
 
 <div>
-<a href="https://github.com/wesSamy">
-<img loading="lazy" height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=wesSamy&layout=compact&langs_count=7&theme=dracula"/>
+<a href="https://github.com/WesSamy">
+<img loading="lazy" height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=WesSamy&layout=compact&langs_count=7&theme=dracula"/>
 <img loading="lazy" height="180em" src="https://github-readme-stats.vercel.app/api?username=WesSamy&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
   
 </div>
